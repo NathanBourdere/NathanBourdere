@@ -32,9 +32,10 @@ Student at the University Institute of Technology of Orleans (France).
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://fr.wikipedia.org/wiki/Microsoft_Office)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://fr.wikipedia.org/wiki/Git)
 
-## Learning
+## Currently Learning
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://fr.wikipedia.org/wiki/Flask_(framework))
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://fr.wikipedia.org/wiki/C%2B%2B)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)(https://fr.wikipedia.org/wiki/Flutter_(logiciel))]
 
 ## Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bourdereandreounathan@gmail.com)
