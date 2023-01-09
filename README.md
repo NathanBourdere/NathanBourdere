@@ -35,7 +35,7 @@ Student at the University Institute of Technology of Orleans (France).
 ## Currently Learning
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://fr.wikipedia.org/wiki/Flask_(framework))
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://fr.wikipedia.org/wiki/C%2B%2B)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)(https://fr.wikipedia.org/wiki/Flutter_(logiciel))
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://fr.wikipedia.org/wiki/Flutter_(logiciel))
 
 ## Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bourdereandreounathan@gmail.com)
