@@ -41,3 +41,9 @@ Student at the University Institute of Technology of Orleans (France).
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bourdereandreounathan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-bourdere-andreou/)
 
+## Github Stats
+![](https://github-readme-stats.vercel.app/api?username=NathanBourdere&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NathanBourdere&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanBourdere&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=BryanBlinDorard&icon=5&color=11)](https://visitcount.itsvg.in)
