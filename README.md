@@ -8,6 +8,8 @@ Student at the University Institute of Technology of Orleans (France).
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://fr.wikipedia.org/wiki/JavaScript)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://fr.wikipedia.org/wiki/Flutter_(logiciel))
+[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://fr.wikipedia.org/wiki/Flask_(framework))
 
 ## DBMSs
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://fr.wikipedia.org/wiki/MySQL)
@@ -33,9 +35,7 @@ Student at the University Institute of Technology of Orleans (France).
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://fr.wikipedia.org/wiki/Git)
 
 ## Currently Learning
-[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://fr.wikipedia.org/wiki/Flask_(framework))
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://fr.wikipedia.org/wiki/C%2B%2B)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://fr.wikipedia.org/wiki/Flutter_(logiciel))
 
 ## Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bourdereandreounathan@gmail.com)
