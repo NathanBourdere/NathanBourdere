@@ -8,7 +8,7 @@ Student at the University Institute of Technology of Orleans (France).
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://fr.wikipedia.org/wiki/JavaScript)
-[![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)](https://fr.wikipedia.org/wiki/TypeScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://fr.wikipedia.org/wiki/TypeScript)
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://fr.wikipedia.org/wiki/Dart_(langage))
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://fr.wikipedia.org/wiki/PHP)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://fr.wikipedia.org/wiki/C_Sharp)
