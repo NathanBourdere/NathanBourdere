@@ -1,6 +1,6 @@
 ## About me
-Ambitious Computer Science student trying to get his work done !
-Student at the University Institute of Technology of Orleans (France).
+Ambitious Data Scientist !
+Currently studying at Nantes Université (France).
 
 ## Programming languages
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://fr.wikipedia.org/wiki/Python_(langage))
